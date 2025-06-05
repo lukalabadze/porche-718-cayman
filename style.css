@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    background-color: #000000;
+}
+
+header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.porshe {
+    width: 100%;
+}
+
+header h1 {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 200;
+
+}
+
+.lookfor {
+    color: #ffffff;
+    text-align: center;
+    font-size: 68px;
+    margin-top: 420px;
+}
+
+h1 a {
+    color: antiquewhite;
+
+}
+
+
+
+.headerinfo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+header .flex img {
+    width: 34px;
+
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.uki {
+    width: 1889px;
+    background-color: #000000;
+    overflow: hidden;
+    position: relative;
+}
+
+main h2 {
+    color: #ffffff;
+    font-size: 48px;
+
+}
+
+main .flex h3 {
+    color: #ffffff;
+    text-align: start;
+}
+
+main .flex h4 {
+    color: #ffffff;
+    text-align: start;
+}
+
+footer {
+    background-color: #000000;
+    border-top: 1px solid #ffffff;
+    padding: 106px 168px 23px;
+}
+
+footer div ul li a {
+    color: #ffffff;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer h3 {
+    color: #ffffff;
+
+}
+
+footer li {
+    line-height: 31px;
+
+}
+
+.kkhk {
+    padding: 230px;
+    color: #ffffff;
+}
+
+.kkhk img.porche718 {
+    width: 100%;
+}
+
+.gthg {
+    font-size: 64px;
+    text-align: center;
+}
+
+.kkhk article p {
+    font-size: 36px;
+    margin-top: 203px;
+}
+
+h2 {
+    margin-top: 203px;
+}
+
+p {
+    margin-top: 37px;
+}
+
+.ragac {
+    width: 488px;
+    margin: 340px auto 316px auto;
+    text-align: center;
+    
+}
+
+.ragac a {
+    padding: 16px;
+    color: #000000;
+    width: 488px;
+    background-color: #D9D9D9;
+    border-radius: 26px;
+}
+
+.mamie {
+    background-color: #ffffff;
+}
+
+.iku {
+    width: 1498px;
+    height: 1123.5px;
+    background-image: url(img/pgoto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.mamie main {
+    width: 450px;
+    padding: 32px 50px;
+    text-align: center;
+
+}
+
+
+.jora {
+    width: 351px;
+    margin: 68px auto 62px auto;
+    text-align: center;
+
+}
+
+.mamie main p.jora a {
+    padding: 29px;
+    color: #ffffff;
+    width: 351px;
+    background-color: #000000;
+    border-radius: 26px;
+}
+
+.boja {
+    width: 382px;
+    margin: 51px auto 47px auto;
+    text-align: center;
+}
+
+
+.boja a {
+    padding: 24px;
+    color: #ffffff;
+    width:382px;
+    background-color: #000000;
+    border-radius: 17px;
+
+}
+
+.mamie input{
+ width: 100%;
+ padding: 12px;
+ margin-bottom: 27px;
+ border-radius: 13px;
+}
+
+.mamie input::placeholder{
+ color: #000000;
+ text-transform: capitalize;
+ 
+}
+
+h2 a{
+ color: #000000;
+ 
+}
+
+.mamie main p a{
+ color: #000000;
+ text-decoration: underline;
+}
+
+.beqa{
+ margin-bottom: 50px;
+
+}
+
+.mamie main p.boja a{
+    color: #ffffff;
+}
+
+.noja{
+ padding: 31px;
+ margin: 51 auto 47 auto;
+ color: #000000;
+ width: 382px;
+ text-align: center;
+}
+
+
+.mamie main h1 a{
+    color: #000000;
+}
+
+input[type="checkbox"]{
+    width: 5%;
+}
+
+.agree{
+    margin-left: 30px;
+}
+.agree a{
+        color: #000000;
+        text-decoration: underline;
+}
+.mamie main p.jora a{
+    text-decoration: none;
+}
+.line{
+    width:  75px;
+    height: 1px;
+    background-color: #000000;
+}
+.lines{
+    margin-top: 38px;
+    margin-bottom: 38px;
+}
+.lines a{
+    color: #000000;
+    font-size: 20px;
+}
+.emailwith{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    padding: 16px;
+    text-align: center;
+    width: 382px;
+    padding-left: 40px;
+    cursor: pointer;
+}
+.emailwith.flex{
+    justify-content: flex-start;
+}
+.emailwith span{
+    margin-right: 20px;
+}
